@@ -8,9 +8,15 @@
 #### 10x de R$ 41,10 sem juros ou R$ 399,90 à vista
 <a>[Link](https://www.kabum.com.br/produto/102248/processador-amd-ryzen-3-3200g-3-6ghz-4ghz-max-turbo-cache-4mb-quad-core-4-threads-am4-yd3200c5fhbox?utm_id=22429436063&gad_source=1&gad_campaignid=22429436063&gclid=EAIaIQobChMI8N7gzcqHjwMVqF1IAB3-PDD4EAQYASABEgK1UPD_BwE)</a>
 
-#### Memória DDR4 Kingston Fury Beast, 8GB, 3200MHz, Black, KF432C16BB/8
-#### 9x de R$ 20,90 sem juros ou R$ 159,90 à vista
-<a>[Link](https://www.terabyteshop.com.br/produto/19314/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-black-kf432c16bb8)</a>
+
+#### Processador AMD Ryzen 3 5300G, 4-Core, 8-Threads, 4.0GHz (4.2GHz Turbo), Cache 8MB, AM4, 100-100000253BOX
+#### 12x de R$ 52,94 sem juros ou R$ 539,90 à vista
+<a>[Link](https://www.pichau.com.br/processador-amd-ryzen-3-5300g-4-core-8-threads-4-0ghz-4-2ghz-turbo-cache-8mb-am4-100-100000253box)</a>
+
+
+#### Memoria Kingston Fury Beast, 8GB (1x8GB), DDR4, 3200MHz, C16, Preta, KF432C16BB/8
+#### 12x de R$ 16,67 sem juros ou R$ 169,90 à vista
+<a>[Link](https://www.pichau.com.br/ memoria-kingston-fury-beast-8gb-1x8gb-ddr4-3200mhz-c16-preta-kf432c16bb-8)</a>
 
 #### SSD WD Green SN350 480GB M.2 2280 NVMe, WDS480G2G0C
 #### 12x de R$ 27,45 sem juros ou R$ 279,99 à vista
