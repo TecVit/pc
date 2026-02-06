@@ -5,7 +5,7 @@ Lista de peças planejadas, priorizando desempenho, custo-benefício e estética
 ---
 
 ### Componentes
-- <a href="https://www.terabyteshop.com.br/produto/37659/placa-mae-gigabyte-b550m-ds3h-ac-r2-wi-fi-chipset-b550-amd-am4-matx-ddr4">**(Com Wifi) Placa Mãe Gigabyte B550M DS3H AC R2, Wi-Fi, Chipset B550, AMD AM4, mATX, DDR4**</a>  
+- <a href="https://www.terabyteshop.com.br/produto/37659/placa-mae-gigabyte-b550m-ds3h-ac-r2-wi-fi-chipset-b550-amd-am4-matx-ddr4">**Placa Mãe Gigabyte B550M DS3H AC R2, Wi-Fi, Chipset B550, AMD AM4, mATX, DDR4**</a>  
   💲 R$ 699,99
 
 - <a href="https://www.magazineluiza.com.br/memoria-8gb-ddr4-3200mhz-redragon-rage-branco-cl16-gm-711/p/dg4bk2kj78/in/mram/">**(2x) Memória 8Gb Ddr4 3200Mhz Redragon**</a>  
@@ -28,4 +28,4 @@ Lista de peças planejadas, priorizando desempenho, custo-benefício e estética
 
 ---
 
-### 📊 Total do Pc Com Wifi e Com SSD de Marca: 💲 **R$ 3.314,92**
+### 📊 Total do Pc: 💲 **R$ 3.314,92**
