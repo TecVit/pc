@@ -28,4 +28,57 @@ Lista de peças planejadas, priorizando desempenho, custo-benefício e estética
 
 ---
 
-### 📊 Total do Pc: 💲 **R$ 3.314,92**
+### 📊 Total do Pc (À vista): 💲 **R$ 3.314,92**
+
+---
+
+## ⚠️ Observação Importante sobre Preços
+
+> **Os preços podem variar e oscilar com o tempo.**  
+> Promoções, disponibilidade de estoque, variação do dólar e períodos sazonais (como Black Friday e Prime Day) impactam diretamente os valores.
+>
+> Componentes como **memória RAM** e **SSD** são os mais afetados por crises globais e oscilações do mercado.
+
+---
+
+## 🧠 Cenários de Compra
+
+### 🟢 Opção 1 — Compra imediata
+
+- Os preços atuais estão **um pouco elevados**, especialmente RAM e SSD.
+- Ainda assim, o setup continua sendo **muito sólido e funcional**.
+- Ideal para quem precisa do PC **agora**, sem poder esperar promoções.
+
+✔️ Paga um pouco mais, mas já começa a usar imediatamente.
+
+---
+
+### 🟡 Opção 2 — Comprar aos poucos até o fim do ano (recomendada)
+
+- Melhor cenário de **custo-benefício**.
+- Dá para aproveitar **promoções pontuais** de cada componente.
+- Montagem feita apenas quando todas as peças forem adquiridas.
+
+✔️ Economia maior sem abrir mão do setup planejado.
+
+---
+
+### 🔵 Opção 3 — Compra em 2 a 3 anos
+
+- Recomendado **aguardar o cenário do mercado**.
+- Possíveis mudanças significativas em preços, gerações e tecnologias.
+- RAM e SSD tendem a sofrer mais com crises e escassez.
+
+✔️ Melhor acompanhar o mercado e comprar apenas quando os preços estiverem realmente atrativos.
+
+---
+
+## 📌 Resumo
+
+- ⚡ **Agora:** compra viável, porém mais cara  
+- 💰 **Até o fim do ano:** melhor custo-benefício  
+- 🕒 **2–3 anos:** esperar o mercado se estabilizar  
+
+---
+
+📦 *Este setup é uma base sólida e pode ser ajustado conforme promoções, necessidades e upgrades futuros.*
