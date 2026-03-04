@@ -9,7 +9,7 @@ Lista de peças planejadas, priorizando desempenho, custo-benefício e estética
   💲 R$ 699,99
 
 - <a href="https://www.magazineluiza.com.br/memoria-8gb-ddr4-3200mhz-redragon-rage-branco-cl16-gm-711/p/dg4bk2kj78/in/mram/">**(2x) Memória 8Gb Ddr4 3200Mhz Redragon**</a>  
-  💲 R$ 599,98
+  💲 R$ 796,98
 
 - <a href="https://www.terabyteshop.com.br/produto/27314/processador-amd-ryzen-5-5600gt-36ghz-46ghz-turbo-6-cores-12-threads-cooler-wraith-stealth-am4-100-100001488box">**Processador AMD Ryzen 5 5600GT, 3.6GHz (4.6GHz Turbo), 6-Cores 12-Threads, Cooler Wraith Stealth, AM4, 100-100001488BOX**</a>  
   💲 R$ 869,99
@@ -28,7 +28,7 @@ Lista de peças planejadas, priorizando desempenho, custo-benefício e estética
 
 ---
 
-### 📊 Total do Pc (À vista): 💲 **R$ 3.314,92**
+### 📊 Total do Pc (À vista): 💲 **R$ 3.514,92**
 
 ---
 
